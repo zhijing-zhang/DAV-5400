@@ -1,0 +1,30 @@
+<?xml  version="1.0" encoding="ISO-8859-1"?>
+<PERFORMANCE>
+    <INDICATOR>
+          <INDICATOR_SEQ>5</INDICATOR_SEQ>
+        <PARENT_SEQ/>
+          <Title>Thanksgiving in the Woods</Title>
+          <Author>Phyllis Alsdurf(Author),Jenny Lovlie(Illustrator)</Author>
+          <Age_Range>4-7</Age_Range>
+          <Publisher>Sparkhouse Family (October 17, 2017)</Publisher>
+          <Amazon_Best_rank>38</Amazon_Best_rank>
+    </INDICATOR>
+    <INDICATOR>
+            <INDICATOR_SEQ>5</INDICATOR_SEQ>
+        <PARENT_SEQ/>
+          <Title>Thanksgiving Is for Giving Thanks! </Title>
+          <Author>Margaret Sutherland, Sonja Lamut (Author)</Author>
+          <Age_Range>3-5</Age_Range>
+          <Publisher>Grosset &amp; Dunlap (September 11, 2000)</Publisher>
+          <Amazon_Best_rank>11</Amazon_Best_rank>
+    </INDICATOR>
+    <INDICATOR>
+        <INDICATOR_SEQ>5</INDICATOR_SEQ>
+        <PARENT_SEQ/>
+          <Title>Turkey Trouble</Title>
+          <Author>Wendi Silvano(Author), Lee Harper(Illustrator)</Author>
+          <Age_Range>3-7</Age_Range>
+          <Publisher>Two Lions; 8th Print edition (October 1, 2009)</Publisher>
+          <Amazon_Best_rank>2</Amazon_Best_rank>
+    </INDICATOR>
+</PERFORMANCE>
